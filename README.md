@@ -12,3 +12,4 @@
   - https://patents.google.com/patent/US6889942B2/en
   - https://guidedparafoils.org/wp-content/uploads/2019/06/Adaptive_Glide_Slope.pdf
   - https://www.dlr.de/ft/en/desktopdefault.aspx/tabid-1377/1905_read-33540
+  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9536574
